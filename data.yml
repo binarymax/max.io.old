@@ -1,0 +1,15 @@
+title : max.io
+tagline: On Art and Code
+author :
+  name : Max Irwin
+  email : max@max.io
+  github : binarymax
+  twitter : binarymax
+  feedburner : Max.L.Irwin@gmail.com
+
+navigation :
+  - archive
+  - tags
+  - categories
+  - pages
+  - about
